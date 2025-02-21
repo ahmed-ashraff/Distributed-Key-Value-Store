@@ -1,16 +1,4 @@
 cmake-build-debug/
-cmake-build-release/
 
-# Ignore other build artifacts
-build/
-*.o
-*.a
-*.so
-*.dylib
 
-# Ignore IDE-specific files
-.vscode/
 .idea/
-*.sln
-*.vcxproj*
-*.user
